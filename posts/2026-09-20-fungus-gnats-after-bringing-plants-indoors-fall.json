@@ -1,0 +1,45 @@
+{
+  "slug": "2026-09-20-fungus-gnats-after-bringing-plants-indoors-fall",
+  "date": "2026-09-20",
+  "title": "The Gnats Show Up Two Weeks Later: Treating a Fungus Gnat Outbreak After You've Already Brought Plants Indoors",
+  "intro": "If you moved balcony or fire-escape plants back inside earlier this month and did everything right — neem spray, a few days' quarantine, a close inspection — you can still end up with a cloud of tiny flies around your pots by early October. That's because fungus gnats complete an egg-to-adult cycle in about three to four weeks at normal room temperature (65-75°F), so eggs already sitting in the soil before your plant ever came inside have time to hatch, feed, pupate, and emerge as adults well after the move is done and the pre-treatment spray has worn off. A single adult-focused fix won't catch that timeline. Here's the actual three-part protocol, and why skipping any one part just resets the clock.",
+  "sections": [
+    {
+      "heading": "The swarm you see isn't the problem — the larvae in the soil are",
+      "body": "Adult fungus gnats are harmless nuisance flies; the actual damage (and the next generation) comes from larvae feeding in the top inch or two of wet soil for 10-14 days before pupating. Bacillus thuringiensis israelensis (BTI), sold as granules you water into the soil, is the standard fix because it targets gnat and mosquito larvae specifically and is inert to pets, people, and beneficial insects. It kills larvae within 24-48 hours of the granules being watered in, but it does nothing to eggs that haven't hatched yet, which is the detail that trips people up when they apply it once and declare victory.",
+      "products": [
+        {
+          "name": "Mosquito Bits (BTI granules)",
+          "blurb": "The larvicide that actually addresses the population living in the soil rather than just the adults flying around the room. Sprinkle on the soil surface and water in; safe to use on any houseplant.",
+          "priceNote": "One container treats a large number of pots and lasts multiple seasons if kept dry between uses.",
+          "searchQuery": "Mosquito Bits BTI granules fungus gnat control"
+        }
+      ]
+    },
+    {
+      "heading": "Sticky traps don't kill the infestation, but they tell you when you're winning",
+      "body": "Yellow sticky traps only catch adults — they can't touch eggs or larvae in the soil — so they're not a standalone fix. Their real value is as a monitoring tool: place a few traps at soil level across your pots, and a falling daily catch count over 2-3 weeks is the clearest signal that the larvicide and drench are actually working. Plastic-board traps with a waterproof adhesive hold up better than paper-backed ones in the higher humidity that comes with grouped houseplants, since damp paper traps lose stickiness and sag.",
+      "products": [
+        {
+          "name": "Waterproof plastic sticky traps (yellow, dual-sided)",
+          "blurb": "Monitoring tool, not a cure — use these to track whether the adult population is actually dropping week over week, and to catch newly-emerged adults before they lay another batch of eggs.",
+          "priceNote": "Sold in packs of 20-30; inexpensive enough to place one per pot cluster.",
+          "searchQuery": "yellow sticky traps waterproof plastic fungus gnat"
+        }
+      ]
+    },
+    {
+      "heading": "A hydrogen peroxide drench closes the gap BTI leaves open",
+      "body": "Mix 1 part standard 3% hydrogen peroxide with 4 parts water (about 1/4 cup peroxide to 1 cup water per plant) and water it directly into the soil until it runs out the drainage holes. It fizzes on contact with organic matter and kills larvae and some eggs on contact, but the effect is contact-only and temporary, so the standard protocol is to repeat it at every watering for 2-3 weeks — not a single application — because new eggs continue hatching every 4-6 days from adults that were already flying before treatment started. Letting the top inch of soil dry out fully between waterings during this window also matters: gnat eggs and larvae can't survive in dry soil, so pairing the drench with a genuinely drier watering schedule (rather than your normal routine) is what actually shortens the 3-4 week cycle instead of just running alongside it.",
+      "products": [
+        {
+          "name": "3% hydrogen peroxide (standard drugstore bottle)",
+          "blurb": "No specialty product needed — the plain first-aid concentration is what the drench ratio is built around. Diluted 1:4 with water, it's gentle enough for repeated use without damaging roots.",
+          "priceNote": "A few dollars for a bottle that covers a full multi-week treatment cycle for several plants.",
+          "searchQuery": "3 percent hydrogen peroxide bottle"
+        }
+      ]
+    }
+  ],
+  "conclusion": "None of these three steps alone breaks the cycle: BTI kills existing larvae but not eggs, sticky traps catch adults but not what's in the soil, and a one-time peroxide drench misses whatever hatches next week. Run all three together, let the soil surface dry between waterings, and expect it to take the full 3-4 weeks the gnat life cycle actually runs on — not the few days a single spray promises. If you already did a pre-move neem treatment and gnats still showed up, that's not a sign it failed; it just means eggs were already in the soil before the plant ever crossed the threshold, and this is the follow-up protocol for that exact situation."
+}
