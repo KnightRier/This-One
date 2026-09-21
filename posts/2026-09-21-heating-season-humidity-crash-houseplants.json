@@ -1,0 +1,45 @@
+{
+  "slug": "2026-09-21-heating-season-humidity-crash-houseplants",
+  "date": "2026-09-21",
+  "title": "Your Building's Heat Is About to Turn On — That's What Actually Crisps Your Plants, Not \"Winter\"",
+  "intro": "The last few posts here have been about frost and moving plants indoors. This one is about what happens after they're already inside: as soon as building heat kicks on for the season, indoor relative humidity in most apartments falls from a livable 40-50% down into the 20s, and it does it faster than most people expect. Heating doesn't remove water from the air, but it does raise the air's capacity to hold moisture — so the same absolute amount of water vapor reads as a much lower relative-humidity percentage once the radiator or forced-air system starts running. Tropical houseplants (monstera, calathea, ferns, pothos with new growth) are built for 50-70% and start showing crispy leaf margins and stalled new growth well before you'd notice discomfort yourself. The fix isn't waiting until leaves look bad in January — it's measuring now, before the heat is even on full-time, and having a plan already running.",
+  "sections": [
+    {
+      "heading": "Why the crispy edges start now, not in January",
+      "body": "Relative humidity is water vapor as a percentage of what the air could hold at that temperature — and warmer air can hold more. When a radiator or forced-air vent raises room temperature a few degrees without adding any moisture, the percentage drops even though the actual water content in the room hasn't changed. ASHRAE's comfort guidance puts a healthy year-round indoor range at 30-60%, with 40-50% as the sweet spot; most apartments with central heating running routinely fall below 30% once the system is on for the winter. A cool-mist evaporative humidifier is the standard fix because it self-regulates (a wicking filter can only evaporate so much water, so it can't overshoot into mold-friendly territory the way an ultrasonic mist unit can) and it doesn't leave the white mineral dust on leaves that ultrasonic units do with anything but distilled water. The Honeywell HCM-350 is the model that keeps coming up in humidifier testing for exactly this reason — it pulls room air through a wet wick rather than misting, so it's self-limiting and low-maintenance for a plant corner or a bedroom with a few tropicals.",
+      "products": [
+        {
+          "name": "Honeywell HCM-350 Cool Moisture Humidifier",
+          "blurb": "Evaporative, wick-filter design rather than ultrasonic mist — it can't over-humidify a small room and won't coat nearby leaves in mineral dust the way mist units do with tap water. Sized for a bedroom or plant corner, not a whole apartment.",
+          "priceNote": "Mid-range for a humidifier of this size; replacement wicking filters are a recurring cost every 1-2 months of regular use.",
+          "searchQuery": "Honeywell HCM-350 cool moisture humidifier"
+        }
+      ]
+    },
+    {
+      "heading": "Guessing at humidity is how plants end up crispy before you notice",
+      "body": "Humans stop noticing dry air as uncomfortable well above the point where thin-leafed tropicals start stressing, so \"the room feels fine\" isn't a reliable signal once heating season starts. A cheap dial hygrometer drifts and is hard to trust; a small Wi-Fi sensor like the Govee line reads both temperature and relative humidity, logs the trend over days so you can see the drop as heat cycles on and off, and can push a phone alert when a room crosses a threshold you set — useful specifically because forced-air heat cycles on and off through the day rather than holding steady, so a single glance at a dial in the morning can miss the afternoon dip. Put one at plant height, not at the thermostat, since humidity right at the soil surface and leaf level reads lower than higher up near a ceiling vent.",
+      "products": [
+        {
+          "name": "GoveeLife/Govee Wi-Fi Thermometer Hygrometer (H5104/H5051 series)",
+          "blurb": "Small Wi-Fi sensor that logs temperature and humidity over time and can alert your phone when a room drops below a set percentage — the point is catching the trend during heating cycles, not just a one-time reading.",
+          "priceNote": "Inexpensive enough to run one per plant-heavy room; no hub required, connects directly to home Wi-Fi.",
+          "searchQuery": "Govee Wi-Fi thermometer hygrometer indoor"
+        }
+      ]
+    },
+    {
+      "heading": "For rooms where a full humidifier isn't practical",
+      "body": "A humidifier is the actual fix, but it's not always realistic for every room a plant sits in. A pebble/humidity tray — a shallow waterproof tray filled with pebbles or gravel, topped up with water below the pot's drainage line so the pot sits above the waterline rather than in it — raises humidity in the few inches of air immediately around the foliage as the water evaporates. It does nothing for the room as a whole and needs refilling every few days, so it's a supplement for a single sensitive plant (a fern or calathea on a windowsill, say) rather than a substitute for the humidifier if you have several tropicals grouped together. Grouping plants close together works on the same principle — each plant's own transpiration raises the humidity in the air pocket the group shares — and costs nothing beyond rearranging pots.",
+      "products": [
+        {
+          "name": "Waterproof pebble/humidity tray for plants",
+          "blurb": "Shallow tray plus pebbles or expanded clay pellets, topped up with water kept below the pot's base — raises humidity in the immediate air around one plant's leaves, not the whole room. Cheapest option for a single sensitive plant.",
+          "priceNote": "A few dollars for a tray sized for one or two pots; larger multi-plant trays cost more but cover a windowsill grouping.",
+          "searchQuery": "waterproof pebble humidity tray for indoor plants"
+        }
+      ]
+    }
+  ],
+  "conclusion": "None of these is optional if you're growing humidity-loving tropicals through an apartment heating season: the humidifier is what actually moves the room's baseline, the hygrometer is what tells you whether it's working (and catches the afternoon dip a morning glance misses), and the pebble tray or grouping is the cheap supplement for the one plant that can't get its own humidifier. Set this up now, before heat has been running long enough to matter — the crispy leaf edges that show up in January are the cumulative result of weeks at 20-something percent humidity, not a single bad day, and they don't reverse on their own once the damage is done to that leaf."
+}
