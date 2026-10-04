@@ -1,0 +1,45 @@
+{
+  "slug": "2026-10-04-fire-prevention-week-lithium-grow-light-charging-apartment",
+  "date": "2026-10-04",
+  "title": "Fire Prevention Week 2026 Is About Charging Habits — Which Means Your Apartment Plant Shelf",
+  "intro": "Fire Prevention Week runs October 4-10, 2026, and for the second year running the National Fire Protection Association built the whole campaign around one thing: lithium-ion battery charging. The official theme is \"Charge into Fire Safety: Safe Charging Is a Superpower,\" and the core guidance — use the charger that came with the device, charge on a hard flat surface instead of a bed or couch, unplug once it's full, stop immediately if something feels hot or looks swollen, and buy only products carrying a recognized testing-lab mark — is usually illustrated with e-bikes and phones. Nobody mentions the grow light. But a small-space plant setup is one of the few corners of an apartment that's quietly accumulated several of exactly the devices this campaign is warning about: cordless clip and puck grow lights with built-in lithium batteries, USB power banks feeding them, and a timer-driven power strip underneath the whole shelf that nobody unplugs for months.",
+  "sections": [
+    {
+      "heading": "The grow light on your shelf is a lithium-ion device, not just a lamp",
+      "body": "Battery-powered puck and clip grow lights have become the default fix for the one shelf in an apartment with no nearby outlet, and they work precisely because they hide a real lithium-ion cell behind a plastic housing. The Barrina Orbgrow OG03C, a cordless full-spectrum puck light built for exactly this use, runs on a built-in 5,200mAh rechargeable battery that charges fully in about 4 hours over USB-C and then runs 6-10 hours on a charge, per the manufacturer's own listing. That's a real battery pack living a few inches from a shelf of dry potting soil and paper plant tags — which makes NFPA's charging-week basics directly relevant: charge it on the shelf itself or another hard surface, not tucked under a cushion or blanket for \"hidden cord\" reasons, unplug the USB-C cable once the LCD shows full rather than leaving it topped off for days, and stop using it if the housing ever feels hot to the touch or the plastic looks swollen.",
+      "products": [
+        {
+          "name": "Barrina Orbgrow OG03C Rechargeable LED Puck Grow Light",
+          "blurb": "A cordless, battery-powered full-spectrum puck light built specifically for shelves without a nearby outlet — exactly the category of lithium-ion device this year's Fire Prevention Week theme is about, with a USB-C charge port and an LCD that shows battery level so you're not guessing when it's actually done charging.",
+          "priceNote": "Single units have been listed in the roughly $20 range on the manufacturer's own site; check current Amazon pricing.",
+          "searchQuery": "Barrina Orbgrow OG03C rechargeable LED puck grow light"
+        }
+      ]
+    },
+    {
+      "heading": "The bigger risk is usually the power strip, not the battery",
+      "body": "Most apartment grow setups don't run on battery power at all — they run a plugged-in grow light, a humidifier, and sometimes a seedling heat mat off one timer and one power strip tucked behind a plant stand, often for the entire growing season without being unplugged or inspected. NFPA's \"buy only listed products\" guidance for lithium devices applies just as directly here: a power strip or smart plug without a UL or ETL mark is the same unverified-electronics risk as an uncertified charger, just running continuously instead of for a few hours. A UL-listed surge-protected strip rated for the actual combined wattage of a grow light plus a humidifier is the cheap, boring fix most grow shelves are missing, and it's worth checking the rating printed on whatever strip is already back there before adding one more device to it.",
+      "products": [
+        {
+          "name": "Belkin 8-Outlet Surge Protector Power Strip",
+          "blurb": "A UL-listed surge-protected strip sized for a grow-light-plus-humidifier setup rather than a single lamp — the kind of certified, properly-rated strip that's worth swapping in if the one currently running a plant shelf's gear has no visible safety listing or is already overloaded with adapters.",
+          "priceNote": "Typically listed under $25; check current Amazon pricing.",
+          "searchQuery": "Belkin 8 outlet surge protector power strip"
+        }
+      ]
+    },
+    {
+      "heading": "A five-minute check that covers everything already on the shelf",
+      "body": "NFPA's single clearest warning sign for a lithium-ion device going bad is heat it shouldn't be producing, and the easiest way to catch that early on a crowded plant shelf is a non-contact infrared thermometer — point it at a grow light's battery housing, a USB charging brick, or the power strip itself after a few hours of normal use, and a reading that's climbing well above room temperature on a device that's supposed to be idle is the cue to stop using it and check the manufacturer's guidance, rather than waiting for a smell or visible swelling to notice something's wrong.",
+      "products": [
+        {
+          "name": "Etekcity Lasergrip 774 Non-Contact Infrared Thermometer",
+          "blurb": "A cheap point-and-read infrared thermometer that turns NFPA's \"stop if it feels hot\" guidance into an actual number — useful for spot-checking a rechargeable grow light's battery housing, a USB charging brick, or a power strip on a shelf that's running several devices at once.",
+          "priceNote": "Commonly listed under $20; check current Amazon pricing.",
+          "searchQuery": "Etekcity Lasergrip 774 infrared thermometer"
+        }
+      ]
+    }
+  ],
+  "conclusion": "None of this is a reason to panic about a grow light — it's a reason to spend five minutes during the one week a year fire departments are actively pushing this message. Apartments pack an unusual density of small chargers and continuously-running power strips into one corner for the plant shelf, which is exactly the pattern NFPA's 2026 theme is aimed at: not primarily e-bikes, but the ordinary habit of charging something on a soft surface, walking away, and not checking the certification on the power strip underneath it. Check what's already plugged in before adding anything new."
+}
