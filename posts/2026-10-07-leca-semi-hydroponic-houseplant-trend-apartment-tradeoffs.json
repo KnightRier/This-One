@@ -1,0 +1,63 @@
+{
+  "slug": "2026-10-07-leca-semi-hydroponic-houseplant-trend-apartment-tradeoffs",
+  "date": "2026-10-07",
+  "title": "The Viral \"Swap Soil for Clay Balls\" Houseplant Trend Isn't a Free Lunch — What LECA Actually Fixes and What It Costs You",
+  "intro": "Home & Gardens just ran a piece on LECA (lightweight expanded clay aggregate) under the headline \"if you always overwater your houseplants, swap soil for the viral clay pebbles everyone is using\" — and the underlying claim is real: semi-hydroponic growing in LECA gives roots a passive wick of moisture instead of soil that stays soggy after a heavy-handed watering, which is exactly the failure mode that kills more apartment houseplants than underwatering does. But the trend coverage mostly stops at the upside. Converting a plant to LECA is a real transition with a rough few weeks, a permanent new fertilizing routine, and ongoing costs that soil never had — worth knowing before you dump a monstera out of its pot this weekend.",
+  "sections": [
+    {
+      "heading": "What LECA actually changes: air at the roots, not less water",
+      "body": "LECA balls are fired clay pellets that don't hold water inside themselves the way soil does — they sit in a reservoir at the bottom of the pot and wick moisture upward by capillary action, so roots sitting above the waterline get constant humidity without sitting in standing water. For an apartment grower, the practical selling points are real: a clear or semi-clear pot lets you see the water level instead of guessing by sticking a finger in soil, the medium itself can be rinsed and reused indefinitely instead of replaced yearly, and because there's no organic matter to break down, fungus gnats — which breed in damp soil, not water — mostly stop being a problem. None of that requires taking the trend's word for it; it's a direct consequence of swapping an absorbent medium for an inert one.",
+      "products": [
+        {
+          "name": "LECA clay pebbles (expanded clay aggregate), 2-lb bag",
+          "blurb": "The medium itself — rinse before first use to remove clay dust, and soak for 24 hours so the pellets are fully hydrated before a plant's roots touch them. Reusable indefinitely once a plant outgrows a pot; just rinse and resoak for the next one.",
+          "priceNote": "2-2.5 lb bags commonly run $11-18 depending on brand and retailer; a 2-lb bag is enough for one or two medium houseplant pots.",
+          "searchQuery": "LECA expanded clay pebbles for plants 2 lb bag"
+        },
+        {
+          "name": "Clear plastic nursery pot with drainage holes, 4-6 inch",
+          "blurb": "A clear inner pot lets you actually see the waterline in the LECA and the root color through the pellets — the whole point of the system is visibility instead of guesswork, which an opaque ceramic pot throws away.",
+          "priceNote": "Multi-packs of clear nursery pots typically run $8-15 for several sizes.",
+          "searchQuery": "clear plastic nursery pot with drainage holes 4 inch multipack"
+        }
+      ]
+    },
+    {
+      "heading": "The transition is the part the trend pieces skip: expect the plant to look worse first",
+      "body": "A plant grown in soil has soil roots — built to chase air pockets between watering, not to sit in constant moisture. Moving it straight into LECA means those roots are now in a wetter, more oxygen-limited environment than they're adapted to, and a visible portion of them typically dies back over the first two to six weeks while the plant grows new, thicker \"water roots\" suited to the new setup. That's a normal part of the conversion, not a sign you killed the plant, but it only goes well if you bare-root it first — washing every trace of old soil off the roots before LECA touches them, since leftover soil trapped against the pellets rots in standing water and takes the plant with it. Converting a plant you actually care about keeping, mid-transition, is also not the moment to also change its light or temperature — stability everywhere else is what gets it through the rough patch.",
+      "products": [
+        {
+          "name": "Soft-bristle root cleaning brush (or a repurposed soft toothbrush)",
+          "blurb": "Used to work old soil out from between roots under running water before transition — any soil left clinging to the roots is what rots once it's sitting in a LECA reservoir instead of free-draining soil.",
+          "priceNote": "A dedicated root-cleaning brush runs $6-10; a plain soft toothbrush works identically and costs less.",
+          "searchQuery": "soft bristle root cleaning brush for repotting plants"
+        }
+      ]
+    },
+    {
+      "heading": "LECA feeds nothing — the fertilizer switch isn't optional and it isn't temporary",
+      "body": "Soil holds and slowly releases nutrients even between feedings; fired clay has none, so a plant in LECA is entirely dependent on whatever's dissolved in its reservoir water, every time, indefinitely — not just during the transition. That means a standard slow-release soil fertilizer doesn't work in this system at all; semi-hydro growers use a liquid hydroponic fertilizer mixed into the reservoir water at a diluted strength, because the roots are bathed in it constantly rather than getting periodic, draining-away doses. Skipping this or reverting to an old soil-fertilizer habit is the most common reason a LECA conversion fails weeks after the plant seemed to have recovered from transition — it isn't a one-time setup cost, it's a permanent change to how the plant gets fed.",
+      "products": [
+        {
+          "name": "General Hydroponics MaxiGro or MaxiBloom, 2.2-lb",
+          "blurb": "A widely used hydroponic fertilizer in the semi-hydro/LECA community — mixed at a light dilution into the reservoir water on an ongoing basis, not a one-time addition. Not a soil fertilizer substitute for soil-grown plants; this is specifically for plants already converted to an inert medium.",
+          "priceNote": "2.2-lb containers commonly run $14-24 depending on retailer.",
+          "searchQuery": "General Hydroponics MaxiGro hydroponic fertilizer"
+        }
+      ]
+    },
+    {
+      "heading": "The 1/3 water-line rule, and whether a self-watering pot is worth it",
+      "body": "The standard LECA setup keeps the water level at roughly the bottom third of the pot, so the lowest layer of roots sits in the reservoir while the rest stay above it in humid air — go higher than that consistently and you've recreated the same oxygen-starved, rot-prone conditions LECA is supposed to fix. Doing this by hand means periodically draining and refilling a nested pot-in-pot setup and eyeballing the line through clear plastic, which works fine but adds a recurring task. A dedicated self-watering planter with a built-in reservoir and water-level indicator (Lechuza is the common brand in this space, running roughly $55-90 depending on size) automates that line-watching for a few specific showcase plants, at a real price premium over a clear nursery pot — worth it for a prominent living-room plant, overkill for a shelf of propagations.",
+      "products": [
+        {
+          "name": "Lechuza Classico self-watering planter with water level indicator",
+          "blurb": "A reservoir planter purpose-built for the semi-hydro water line — the indicator removes the guesswork of a DIY clear-pot setup, at a real cost premium that only pays off for a plant you're displaying prominently.",
+          "priceNote": "Commonly $55-90 depending on size, occasionally discounted; check current pricing.",
+          "searchQuery": "Lechuza Classico self-watering planter"
+        }
+      ]
+    }
+  ],
+  "conclusion": "The trend coverage isn't wrong that LECA fixes a real problem — it removes the single most common way apartment growers kill plants, which is soil that stays soggy after an inconsistent watering schedule. But it's a different plant-care system, not a free upgrade to the one you already have: a rough multi-week transition with visible root die-back, a permanent switch to liquid hydroponic fertilizer instead of whatever you were using in soil, and an ongoing water-line routine that a self-watering pot can automate but not eliminate. Converting one plant you don't mind risking, rather than your whole shelf at once, is the way to find out whether that trade is actually worth it for how you water."
+}
