@@ -1,0 +1,38 @@
+{
+  "slug": "2026-10-22-nws-frost-freeze-program-ends-balcony-plants-no-warning",
+  "date": "2026-10-22",
+  "title": "Your Local NWS Office May Have Already Stopped Issuing Frost Warnings This Fall — Your Balcony Won't Get a Heads-Up Anymore",
+  "intro": "If your routine for protecting balcony and patio plants is \"wait for the phone to buzz with a frost advisory,\" it's worth checking whether that alert is even coming anymore. Local weather coverage this month — including a Wisconsin segment on October 16 explaining why frost advisories and freeze warnings hadn't been issued there recently, and similar explainers from Ohio stations — is pointing at something a lot of renters don't know about the National Weather Service: the frost/freeze advisory program isn't year-round. Every NWS forecast office runs it only through a defined \"growing season\" window tied to local climate averages, and once that window closes for a given county or zone, the office stops issuing frost advisories and freeze warnings entirely for the season — even if the actual overnight temperature drops well below freezing. In much of the northern half of the country, late October is exactly when that cutoff lands. That means the official warning you've been relying on may have already gone dark for your area, silently, with no announcement beyond a local forecaster mentioning it in passing.",
+  "sections": [
+    {
+      "heading": "Why the warnings stop even though freezing nights don't",
+      "body": "NWS offices define a local \"growing season\" as the stretch between the 30-year-average date of the last spring freeze and the 30-year-average date of the first fall freeze for each forecast zone. Frost advisories and freeze warnings are only issued inside that window. The exact cutoff rule varies by office: some end the program the moment any county in their area records its first hard freeze, others run a fixed number of days past the median first-fall-freeze date (several Northeast offices use roughly 10 days past that median, pegged to the 75th-90th percentile of their historical data), and a few Southern offices just run until a flat calendar date, freeze or not. Past-season NWS program notices show how wide the spread gets: some upstate New York and New England zones have cut off as early as the first and second week of October, Great Lakes offices have ended Northwoods-area coverage by early October, while an office like Peachtree City, Georgia keeps issuing through November 20 or a hard freeze, whichever comes first. The practical effect once your zone's window closes: the office will not issue a frost advisory or freeze warning for the rest of the season, period — a 28-degree night in November gets no headline, because by their calendar it's assumed and no longer \"news.\" Your own forecast office's current cutoff date is published on its \"Frost/Freeze Program\" page on weather.gov, usually buried a few clicks under your local office's climate or hazard section — it's worth the two minutes to look it up now rather than find out by losing a plant.",
+      "products": []
+    },
+    {
+      "heading": "The gap this leaves for apartment and balcony growers specifically",
+      "body": "Ground-level gardeners mostly get a pass here, because by the time a region's growing season officially ends, in-ground soil has enough thermal mass that a single cold night rarely finishes anything off. Container plants on an exposed balcony or fire escape don't have that buffer — a pot loses heat from all sides, and the plant inside can hit a damaging temperature well before the air itself reads freezing, especially with wind. If your mental model is \"no alert means it's fine,\" late October to mid-November is precisely when that assumption breaks, because the alerts have gone quiet for calendar reasons that have nothing to do with whether your actual balcony is about to get cold enough to hurt what's out there. The fix isn't complicated, it's just not automatic anymore: you need your own read on the overnight low where your plants actually sit, rather than relying on a push notification tied to a program that's already wound down for the season. A cheap wireless outdoor sensor that reports to a phone app and can alert on a temperature threshold does exactly what the NWS program was doing for you, except it watches your specific balcony instead of a 30-year county average.",
+      "products": [
+        {
+          "name": "Govee WiFi outdoor/indoor thermometer with remote sensor",
+          "blurb": "A small battery-powered sensor you clip or set on the balcony, paired to an app that logs the actual low out there overnight and can push a phone alert below a temperature you set — the exact function the NWS frost program stops performing once your zone's season ends.",
+          "priceNote": "Single sensor plus display kits commonly run $15-30.",
+          "searchQuery": "Govee WiFi outdoor indoor thermometer remote sensor app alert"
+        }
+      ]
+    },
+    {
+      "heading": "Once you know a cold night is coming, covering is still the cheap fix",
+      "body": "Monitoring only tells you the problem is coming — the actual protection for a balcony container is the same low-tech move growers have used for decades: a breathable frost cloth or floating row cover draped loosely over the plant (not plastic sheeting, which traps condensation against leaves and can do more damage than the cold) overnight, pulled off again once temperatures climb back above freezing. For anything that can be moved, pulling pots against the building wall or under an overhang shaves off a few degrees of wind exposure and radiational cooling, which is often the difference on a borderline night. Neither of these costs much or takes long, but both only work if you know the cold is coming in the first place — which, per the sections above, is no longer something you can assume a government text alert will tell you once your local office's program has wound down for the year.",
+      "products": [
+        {
+          "name": "Agfabric floating row cover / frost blanket",
+          "blurb": "Lightweight, breathable fabric sized to drape over potted plants or small balcony setups — the standard low-cost cold-night cover that protects down to several degrees below freezing without smothering the plant the way plastic sheeting does.",
+          "priceNote": "Typically $10-20 for a roll sized for a balcony or small patio.",
+          "searchQuery": "Agfabric floating row cover frost blanket plants"
+        }
+      ]
+    }
+  ],
+  "conclusion": "None of this is a defect in the NWS program — it's designed to stop issuing headlines once a hard freeze is climatologically normal for your area, and for most gardening that's a reasonable cutoff. The gap is specifically for apartment and balcony growers whose containers are more exposed than the ground-level average the program is built around. If you're in the northern half of the country, it's worth five minutes this week to check your local NWS office's frost/freeze program page for its current cutoff date — and if your zone has already closed for the season, a $20 wireless thermometer and a frost cloth replace what the alert used to do for you."
+}
