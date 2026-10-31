@@ -1,0 +1,37 @@
+{
+  "slug": "2026-10-31-halloween-pumpkin-disposal-no-yard-apartment-compost",
+  "date": "2026-10-31",
+  "title": "It's Halloween — Here's What Actually Works for Getting Rid of a Jack-O'-Lantern When You Have No Yard and No Curbside Compost",
+  "intro": "Every piece of \"what to do with your pumpkin\" advice this week assumes you have a backyard to toss it into or a curb where the city picks up yard waste. If you grow on a balcony or a windowsill, neither applies, and a carved pumpkin left in a kitchen trash can for a week turns into a genuinely unpleasant, heavy, leaking mess well before your next collection day. The good news: there are real options built for exactly this situation, from a decades-old animal-sanctuary donation network to indoor composting systems that need nothing more than counter space. None of them require a yard, and the wrong move — tossing a waxed, painted, or glittered pumpkin straight into any of them — is the one thing that trips up almost everyone trying to do this right.",
+  "sections": [
+    {
+      "heading": "Before anything else: strip it down, or none of the options below will take it",
+      "body": "Nearly every disposal route in this post — composting, animal donation, municipal food-scraps programs — has the same first rule, and it's the step people skip when they're in a hurry to clean up after Halloween: a carved or decorated pumpkin has to be stripped back to plain gourd first. Pull out any candle, wax drippings, LED light, paint, glitter, marker, or tape. Earth911 and several composting guides are explicit that waxed or painted rinds can't be composted — the coating doesn't break down and can contaminate a batch. Pumpkins for Pigs, the animal-donation network covered below, has the same requirement for anything it accepts: no mold, and decorations limited to water-based paint, markers, glue, tissue paper, or dried flowers that wash off. The other thing to deal with before anything else is the seeds — scoop them out and either save them (more on that below) or discard them separately, since whole seeds can sprout wherever the flesh ends up.",
+      "products": []
+    },
+    {
+      "heading": "Two indoor systems that actually handle a pumpkin without a yard",
+      "body": "If you want the pumpkin to become something useful rather than just disappear, there are two realistic indoor paths, and they trade off speed against effort differently. Bokashi is an anaerobic fermentation system that works in a sealed bin on a counter or in a closet — it doesn't compost in the traditional sense so much as pickle the scraps with an inoculated bran, and a two-bin kit like the SCD Probiotics All Seasons system lets you keep filling one bin while the other finishes, which matters if a whole pumpkin is more volume than a single bin handles in one go. It produces a nutrient-rich liquid you drain off and dilute as houseplant fertilizer, but the fermented solids still need a finishing step — buried in a houseplant pot, handed to a community garden, or added to a municipal food-scraps bin if your building has one — bokashi doesn't fully break down the way outdoor compost does on its own. The other path is an electric countertop composter like the Vitamix FoodCycler FC-50, which dries and grinds scraps into a soil-like amendment in a matter of hours instead of weeks and needs nothing but an outlet. The catch, and this is a real gap in the research: none of the manufacturer or review material addresses pumpkin specifically, and pumpkin flesh is stringier and wetter than the everyday scraps these machines are tested on. Cut it into smaller pieces, run a small batch first, and don't assume it behaves like coffee grounds and vegetable peels.",
+      "products": [
+        {
+          "name": "SCD Probiotics All Seasons Bokashi Composting Starter Kit",
+          "blurb": "A two-bin bokashi system sized for an apartment kitchen — one bin ferments while the other fills, and the whole process stays sealed and indoors with no yard step required until the finished material needs burying or handing off.",
+          "priceNote": "Sold as a kit with bran included; running cost afterward is just replacement bokashi bran.",
+          "searchQuery": "SCD Probiotics All Seasons Bokashi Composting Starter Kit"
+        },
+        {
+          "name": "Vitamix FoodCycler FC-50",
+          "blurb": "An electric countertop unit that dries and grinds food waste into a soil amendment in hours rather than weeks — reviewed as more of a volume-reduction tool than true compost, but genuinely yard-free.",
+          "priceNote": "A standalone countertop appliance; sits roughly in the footprint of a large rice cooker.",
+          "searchQuery": "Vitamix FoodCycler FC-50"
+        }
+      ]
+    },
+    {
+      "heading": "Don't want to compost anything? Donate it, or just eat the seeds",
+      "body": "If dealing with an indoor composting system isn't something you want to take on, Pumpkins for Pigs is a real nonprofit built around exactly your situation: an interactive map of drop-off sites — animal sanctuaries, rescues, homesteads, and farms — that take uncarved, undecorated pumpkins to feed to pigs and other livestock. The organization says it has grown to roughly 650 donation sites across 46 states since starting in 2017, though coverage is uneven by region, so check the live map for a site actually near you before hauling a pumpkin anywhere. Some sites ask you to call or text ahead rather than just dropping it off. Separately, it's also worth checking whether your city runs a curbside or drop-off organics program that accepts food scraps even for apartment buildings without yard waste pickup — a growing number do, and a pumpkin qualifies the same as any other food scrap. And if you'd rather not dispose of it at all, the seeds you scooped out earlier rinse clean, dry overnight, and roast in an oven — the one part of this whole process that turns into something edible instead of waste you have to find a home for.",
+      "products": []
+    }
+  ],
+  "conclusion": "The actual decision tree is short: strip off wax, paint, and decorations first no matter what you do next; then either run it through an indoor bokashi or electric composting system if you want something useful back, hand it off through Pumpkins for Pigs' donation map or a municipal organics program if you'd rather not deal with it yourself, or just save and roast the seeds and let the rest go. None of those options need a yard, a curb, or a car — which is the actual problem with most \"what to do with your pumpkin\" advice this week."
+}
