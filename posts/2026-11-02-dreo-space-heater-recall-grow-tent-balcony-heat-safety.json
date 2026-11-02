@@ -1,0 +1,37 @@
+{
+  "slug": "2026-11-02-dreo-space-heater-recall-grow-tent-balcony-heat-safety",
+  "date": "2026-11-02",
+  "title": "Dreo Just Recalled 375,000+ Space Heaters for Fire Risk — A Real Problem If You're Using One Near a Grow Tent or Balcony Setup This Winter",
+  "intro": "The Consumer Product Safety Commission announced a recall of Dreo's DR-HSH015 \"Whole Room Heater 715\" on October 29, 2026, covering roughly 338,800 units sold in the U.S. and another 36,300 in Canada — units made between April 2025 and January 2026 can overheat and ignite. Dreo has logged 17 reports of units catching fire, three with property damage and one with a burn injury. For most apartments this is a straightforward recall story, but it lands at exactly the moment a lot of apartment and balcony growers are reaching for a small space heater to keep a grow tent, propagation shelf, or marginal balcony setup above freezing — and a space heater tucked next to a plastic grow tent, paper pots, or a stack of seed-starting mix is a materially worse place for a fire-risk unit to be than a living room floor.",
+  "sections": [
+    {
+      "heading": "Check your heater against the actual recall details before assuming it's fine",
+      "body": "The recall is narrow and specific, not a blanket ban on Dreo heaters: it's only the DR-HSH015 model, and only units with a date code (printed on a label on the underside, in YYYY/MM format) between 2025/04 and 2026/01. These were sold roughly September 2025 through October 2026 for $70-$110, at Costco stores and Costco.com, plus BestBuy.com, Kohls.com, Lowes.com, QVC.com, HomeDepot.com, and B2BRenew.com — so if you bought a small Dreo heater online in the last year to warm a growing area, this is worth five minutes to check rather than assume it doesn't apply to you. If your unit matches, the remedy is not a simple firmware fix: Dreo is telling owners to stop using it immediately, unplug it, cut the power cord, and send the company a photo of the cut cord to get a refund. Their recall contact line is 833-820-0887. Don't keep it running \"until the replacement arrives\" — that's exactly the usage pattern behind the incidents already reported.",
+      "products": []
+    },
+    {
+      "heading": "Why this matters more in a grow tent than in a living room",
+      "body": "A fire-risk space heater is dangerous anywhere, but the way apartment growers actually use these things raises the stakes: a heater run inside or right next to an enclosed grow tent sits close to reflective mylar, plastic zippers, and often an extension cord or power strip already loaded down with a light timer and a humidifier. A living-room heater that overheats has open air around it and a smoke detector nearby; a heater wedged behind a tent flap to keep a propagation setup above 60°F overnight does not, and it's rarely something you're watching when it happens. If you're using any space heater — recalled or not — to protect plants in a tent, closet, or sealed-off balcony corner this winter, this is a good prompt to actually check that it has tip-over shutoff and overheat protection (most legitimate heaters list this explicitly in the spec sheet), and to never run one on a daisy-chained power strip that's also carrying grow lights.",
+      "products": []
+    },
+    {
+      "heading": "Lower-risk ways to add warmth to a tent or propagation area",
+      "body": "For keeping seedlings or a propagation tray above a target temperature, a thermostat-controlled seedling heat mat is a meaningfully safer tool than a general-purpose space heater: it's low-wattage, sits flat under trays rather than blowing hot air into an enclosed space, and pairs with a dedicated controller that cuts power once the target temperature is hit instead of running on a dumb on/off cycle. The VIVOSUN waterproof seedling heat mat is a widely-used option for exactly this — warming the root zone or a small tent's air temperature a few degrees without the fire profile of a heater designed for an open room. Pair it with a standalone digital thermostat controller like the Inkbird ITC-308, which cuts power to the mat (or any heater) once it hits a set temperature, rather than trusting whatever built-in cutoff the heating device itself claims to have — a second layer of protection that's cheap insurance in an enclosed space you're not watching overnight.",
+      "products": [
+        {
+          "name": "VIVOSUN Durable Waterproof Seedling Heat Mat",
+          "blurb": "A flat, low-wattage heat mat built for seed trays and small tents — warms root zones and enclosed air a few degrees without the open-flame-adjacent risk profile of a forced-air space heater.",
+          "priceNote": "Typically in the $15-$30 range depending on size; check current Amazon pricing.",
+          "searchQuery": "VIVOSUN waterproof seedling heat mat"
+        },
+        {
+          "name": "Inkbird ITC-308 Digital Temperature Controller",
+          "blurb": "An independent thermostat that cuts power to a heat mat or heater once a set temperature is reached — a second safety layer that doesn't rely on the heating device's own built-in shutoff, which is exactly what failed in the Dreo units now under recall.",
+          "priceNote": "Generally $30-$40; check current Amazon pricing.",
+          "searchQuery": "Inkbird ITC-308 digital temperature controller"
+        }
+      ]
+    }
+  ],
+  "conclusion": "If you own a Dreo DR-HSH015 with a 2025/04-2026/01 date code, stop using it today and go through Dreo's recall process rather than waiting — 17 fire reports and a burn injury is not a hypothetical. But the broader takeaway for apartment growers applies regardless of brand: any space heater running near a grow tent, propagation shelf, or sealed balcony corner deserves more scrutiny than one sitting in open living space, because the things that make a small grow setup work — enclosed plastic, loaded power strips, nobody watching it overnight — are the same things that turn a heater malfunction into a bigger problem. For supplemental warmth in a tent or tray, a thermostat-controlled heat mat with its own independent cutoff is a lower-risk tool for the job than a general-purpose space heater in the first place."
+}
