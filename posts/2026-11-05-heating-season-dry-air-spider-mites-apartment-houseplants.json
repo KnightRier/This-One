@@ -1,0 +1,45 @@
+{
+  "slug": "2026-11-05-heating-season-dry-air-spider-mites-apartment-houseplants",
+  "date": "2026-11-05",
+  "title": "Your Building Just Turned the Heat On — That's Also When Spider Mites Show Up on Apartment Houseplants",
+  "intro": "If your radiator or forced-air vents kicked on for the season sometime in the last week or two, you're not imagining that your plants suddenly look dustier and droopier — the air actually did change. Purdue Extension's consumer horticulture program puts indoor relative humidity as low as 15% during the winter heating season, and other extension sources put furnace-heated homes generally below 30%, versus the 40-60% most houseplants evolved for. That drop lands hardest in apartments specifically: a single centrally-heated unit with no humidistat, no control over the building's heat schedule, and often no yard to move stressed plants outside to recover. The same dry, hot, stagnant air extension and houseplant sources flag as the exact condition spider mites favor is the condition every apartment with the heat now running already has. Catching it this week — before an infestation, not after one spreads to every pot on the windowsill — is the cheap version of this problem.",
+  "sections": [
+    {
+      "heading": "The humidity drop is real and it's worse than it feels",
+      "body": "You can't reliably eyeball relative humidity, which is exactly why extension guidance on this keeps pointing to a hygrometer rather than a gut check — a room can feel normal at 20% RH if you're used to it, while a houseplant adapted to tropical or subtropical understory conditions is already under water stress at that level, shedding lower leaves and crisping leaf tips regardless of how much you're watering. In an apartment, this is compounded by not controlling the thermostat yourself in a lot of buildings, or by through-wall PTAC units that run hot and dry by design. A $10-15 digital hygrometer tells you the actual number for your specific room in about thirty seconds, which is the difference between guessing and knowing whether the plant problem you're about to blame on pests is actually just dry air.",
+      "products": [
+        {
+          "name": "Digital indoor hygrometer / thermometer, small room monitor",
+          "blurb": "Gives you the real relative-humidity number near your plants instead of a guess — the baseline extension guidance recommends before diagnosing leaf-tip browning or deciding you have a pest problem. Several models include a min/max memory so you can see how low humidity actually drops overnight once heat cycles on.",
+          "priceNote": "One of the cheapest tools in this niche — a basic digital model is a low-cost, one-time purchase, not a recurring cost.",
+          "searchQuery": "digital hygrometer thermometer indoor humidity monitor small"
+        }
+      ]
+    },
+    {
+      "heading": "Spider mites specifically thrive in the exact conditions your heat just created",
+      "body": "Multiple houseplant-pest sources are consistent on this: spider mites reproduce fastest in hot, dry, still air — the same combination a heated apartment produces the moment the radiator or vents turn on for the season. They're easy to miss early because the first sign isn't webbing, it's a faint stippled or bronzed look on leaves, which many people chalk up to normal winter leaf drop instead of checking the undersides of leaves with a hand lens or by tapping a leaf over white paper to see if anything moves. The useful nuance from pest-control sources: raising humidity doesn't kill an existing mite population outright, but it reliably slows their reproduction, and lowering room temperature at night does the same — so the hygrometer reading above and an actual infestation are two different problems that call for two different responses.",
+      "products": [
+        {
+          "name": "Insecticidal soap or neem oil concentrate, houseplant-labeled",
+          "blurb": "The treatment extension and houseplant-pest sources point to once mites are confirmed (not just suspected from dry-air symptoms) — applied to both sides of every leaf, repeated across a full three-week cycle minimum to catch newly hatched mites, since a single application won't break the life cycle.",
+          "priceNote": "Inexpensive relative to replacing an infested plant collection; a small concentrate bottle makes many diluted applications.",
+          "searchQuery": "insecticidal soap neem oil concentrate houseplant spider mites"
+        }
+      ]
+    },
+    {
+      "heading": "The fix that actually works in a no-yard apartment: raise local humidity, don't fight the whole building",
+      "body": "You can't change your building's heating schedule or thermostat zone, but you don't need to — the advice across houseplant-care sources is to raise humidity locally, right around the plants, rather than the whole apartment. A small cool-mist humidifier run near a plant cluster is what multiple sources call the most reliable fix, more effective than pebble trays or grouping plants alone, though grouping plants together and using a pebble tray under pots still help on the margin and cost nothing if you already own a tray. The practical apartment version of this: pick one windowsill or plant shelf, put the humidifier there instead of trying to humidify the whole unit, and that's the spot where the hygrometer reading should actually move.",
+      "products": [
+        {
+          "name": "Small cool-mist humidifier, tabletop/room size",
+          "blurb": "Sized for a plant cluster or single room rather than a whole apartment — the fix multiple houseplant-care sources rank above pebble trays or grouping alone for actually raising humidity where it matters, next to the leaves.",
+          "priceNote": "Mid-range for small appliances in this niche; tabletop cool-mist models are less expensive than whole-room units and better suited to a single plant shelf anyway.",
+          "searchQuery": "small cool mist humidifier tabletop for houseplants"
+        }
+      ]
+    }
+  ],
+  "conclusion": "None of this requires a yard or a different apartment — it requires checking a $10 hygrometer reading near your plants this week, now that heat season has actually started, and knowing the difference between \"the air got dry\" and \"there are mites\" before you spend money solving the wrong one. A humidifier run locally near the plants fixes the first; insecticidal soap applied over a full three-week cycle fixes the second. Skipping the check and assuming it's one or the other is how a one-humidifier fix turns into a building-wide reinfestation by December."
+}
