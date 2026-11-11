@@ -1,0 +1,44 @@
+{
+  "slug": "2026-11-11-pfas-forever-chemicals-potting-soil-lawsuit-apartment-container-gardening",
+  "date": "2026-11-11",
+  "title": "A PFAS Lawsuit Against Miracle-Gro Just Cleared a Key Ruling — What It Means When 100% of Your Plant's Soil Came Out of a Bag",
+  "intro": "Two class-action suits filed against The Scotts Company in October 2025 — Calcagno et al. v. The Scotts Co., LLC (S.D. Cal., No. 3:25-cv-02661) and Waldner et al. v. The Scotts Co., LLC (S.D.N.Y., No. 25-cv-8424) — allege that lab testing found PFAS, the 'forever chemicals' linked to cancer and other health effects, in Miracle-Gro's organic-labeled soil and fertilizer lines, including Organic Choice Potting Mix, Organic Choice Garden Soil, and Raised Bed & In Ground Soil with Compost. On September 11, 2026, a federal judge in the California case ruled on Scotts' motion to dismiss: the broad 'this can't legally be called organic' theory was narrowed, but the case is continuing on claims tied to the specific named products. Separately, the consumer-testing outlet Mamavation sent 18 bagged garden soils to an EPA-certified lab and got PFAS detections back on 15 of them — but unevenly: a plain (non-'organic') Miracle-Gro in-ground Garden Soil came back below the reporting limit while a Kellogg Garden Organics product tested worse. That unevenness is the actual story — this isn't a one-brand problem with an easy boycott, it's a bagged-soil-industry problem that varies by product line. For a yard gardener topping up existing ground soil, that's an abstraction. For an apartment or balcony grower, it isn't: in a container, essentially 100% of what your plant's roots sit in is whatever came out of the bag you bought this year.",
+  "sections": [
+    {
+      "heading": "The lawsuit is narrower than the headlines, and it isn't over",
+      "body": "The September 11 ruling didn't clear Scotts of contamination — it dismissed the plaintiffs' argument that PFAS presence automatically makes the word 'organic' on the label false advertising, and it limited the case to the specific products named in the complaint rather than Scotts' whole organic line. The underlying allegation — that independent lab testing detected PFAS in those named products — is still being litigated, not resolved. This also isn't Scotts' first brush with PFAS claims: the advocacy group Beyond Pesticides separately sued the company in 2024 over 'eco-friendly' and 'sustainable' marketing on its EcoScraps fertilizer, which plaintiffs said was made with PFAS-containing biosolids, and that case ended in a settlement. Taken together, that's a pattern across more than one Scotts product line, not a single contested lawsuit — which is why the Mamavation lab data below matters as a second, independent data point rather than just a plaintiff's claim.",
+      "products": []
+    },
+    {
+      "heading": "Independent testing says the real dividing line is the product line, not the brand name on the bag",
+      "body": "Mamavation's results are the clearest practical signal here precisely because they don't split neatly by brand: 15 of 18 bagged garden soils it tested came back with detectable PFAS, but a plain Miracle-Gro in-ground Garden Soil landed in its 'best' category below the reporting limit while a Kellogg Garden Organics all-natural soil tested worse. That matches what soil-science researchers have been finding for a few years now — the PFAS driver isn't the grower's brand, it's whether the product's inputs include biosolids (treated sewage sludge). A characterization study tracked by PFAS Central found biosolid-based soil amendments running roughly 9 to 199 µg/kg of PFAS, versus about 0.1 to 1.1 µg/kg for products based on peat, manure, mushroom substrate, or untreated wood. University of Connecticut Extension's practical advice is to actually read the ingredient panel on the bag for words like 'biosolids,' 'sewage sludge,' or 'municipal residuals' before buying — and to know that a 'Certified Compost' seal from the US Composting Council's Seal of Testing Assurance program doesn't test for PFAS at all, so it isn't a safeguard here despite looking like one.",
+      "products": [
+        {
+          "name": "Peat-and-perlite seed-starting and potting mix (no added compost or fertilizer boosters)",
+          "blurb": "A straightforward peat/perlite base has no compost or biosolid inputs to begin with, which is the actual variable the research ties to PFAS levels — useful for containers you're starting fresh for herbs or salad greens rather than topping up with a 'compost-enriched' bag.",
+          "priceNote": "Comparable in price to a standard bag of potting mix; check the ingredient panel on whatever bag you pick for biosolid or sludge-derived wording regardless of brand.",
+          "searchQuery": "peat and perlite potting mix no fertilizer added"
+        }
+      ]
+    },
+    {
+      "heading": "For containers you're actually eating out of, dilution and label-reading are the two moves that help right now",
+      "body": "There's no PFAS-free certification on a bag of potting soil today — not USDA Organic, not the compost industry's own STA seal — so the label alone can't answer the question for you. Two practical steps work in the meantime, especially for apartment growers running herbs, lettuce, or container tomatoes where you're eating what grows in that soil. First, skip any bag — organic-labeled or not — whose ingredient list mentions biosolids, sewage sludge, or municipal residuals, which the UConn guidance and the PFAS Central data both point to as the main source. Second, cut whatever commercial mix you do buy with coco coir, a peat alternative that comes from coconut husks with no compost or biosolid inputs, which dilutes any PFAS load in the base product for the containers that matter most to you. If your water utility uses PFAS-affected groundwater, it's also worth knowing that irrigation water is a second PFAS pathway into container soil that has nothing to do with the bag at all — a home test kit is the only way to actually check your own tap water rather than guess.",
+      "products": [
+        {
+          "name": "Compressed coco coir brick, for mixing into potting soil",
+          "blurb": "A peat/compost alternative made from coconut husk fiber with no biosolid or sewage-sludge inputs — rehydrates into a lightweight growing medium you can blend into a commercial potting mix to cut the proportion of compost-derived material in containers you're growing food in.",
+          "priceNote": "A few dollars per brick, and one brick expands to fill several containers' worth of mix.",
+          "searchQuery": "compressed coco coir brick potting soil"
+        },
+        {
+          "name": "PFAS home water test kit",
+          "blurb": "Tests your actual tap or well water for PFAS rather than the soil — relevant because irrigation water is a second, separate route PFAS can reach container plants, independent of which bag of soil you bought.",
+          "priceNote": "A single test kit costs more than a bag of soil, but it answers a question no soil brand's label can.",
+          "searchQuery": "PFAS home water test kit"
+        }
+      ]
+    }
+  ],
+  "conclusion": "Nothing about this resolves cleanly in either direction: the Scotts litigation survived its first real test on September 11 but was narrowed, not thrown out, and independent lab testing shows PFAS turning up unevenly across brands and product lines rather than in one company's bags alone. What that actually means for an apartment or balcony grower is that neither an 'Organic' label nor a compost-industry certification seal is currently doing the screening job you'd assume it does — the Seal of Testing Assurance doesn't test for PFAS, and the court fight is specifically about whether 'organic' claims are even true given what's allegedly inside. Until bagged soil carries real PFAS disclosure, the two things actually within a container gardener's control are reading the ingredient panel for biosolid or sludge language before buying anything you'll grow food in, and cutting whatever you do buy with a known-ingredient medium like coco coir instead of assuming the front of the bag has already vetted it for you."
+}
